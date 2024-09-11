@@ -70,10 +70,7 @@ plt.scatter(y_test, y_test_pred, color='blue', label='Predicted vs Actual')
 plt.xlabel("Actual Prices")
 plt.ylabel("Predicted Prices")
 plt.title("Actual vs Predicted House Prices")
-
 plt.plot([min(y_test), max(y_test)], [min(y_test), max(y_test)], color='orange', label='Perfect Prediction')
-
 plt.legend()
-
 plt.show()
 
