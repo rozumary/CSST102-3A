@@ -36,6 +36,7 @@ Dataset Overview: The dataset consists of the following columns:
 • Age: Age of the house in years. <br/>
 • Proximity to Downtown (miles): Distance of the house from the downtown area. <br/>
 • Price: Actual price of the house (in thousands of dollars). <br/>
+<br/>
 
 **Laboratory Exercise 1: Linear Regression Implementation**
 <br/>
