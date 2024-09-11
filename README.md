@@ -12,7 +12,7 @@ Objective:
 Understand the importance of knowledge representation in Artificial Intelligence (AI) and explore how it 
 enables AI systems to reason, learn, and make decisions.
 
-**Machine Problem No. 1: Predicting House Prices with Multiple Regression**
+**Machine Problem No. 2: Predicting House Prices with Multiple Regression**
 <br/>
 <br/>
 Click to see: <br/>
