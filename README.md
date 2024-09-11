@@ -4,8 +4,9 @@ These are all the compilations of my laboratory activities in basic machine lear
 
 **Machine Problem No. 1: Exploring the Role of Knowledge Representation in AI.**
 <br/>
-Click to see:
-([3A-MONTESA-MP1](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-MP1))
+<br/>
+Click to see: <br/>
+[3A-MONTESA-MP1](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-MP1)
 
 Objective: 
 Understand the importance of knowledge representation in Artificial Intelligence (AI) and explore how it 
