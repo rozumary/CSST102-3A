@@ -37,4 +37,16 @@ Dataset Overview: The dataset consists of the following columns:
 • Proximity to Downtown (miles): Distance of the house from the downtown area. <br/>
 • Price: Actual price of the house (in thousands of dollars). <br/>
 
+**Laboratory Exercise 1: Linear Regression Implementation**
+
+Objective:
+To apply the concepts of linear regression learned in lectures by implementing a simple linear regression
+model from scratch in Python.
+
+Task Overview:
+You are provided with a dataset containing information about house prices in a particular city. The
+dataset includes features such as the size of the house (in square feet), the number of bedrooms, and
+the age of the house. Your task is to predict the price of a house based on these features using a linear
+regression model.
+
 
