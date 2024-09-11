@@ -32,9 +32,9 @@ regression model that can accurately predict house prices based on these feature
 Dataset Overview: The dataset consists of the following columns: 
 • Size (sq. ft.): Size of the house in square feet. 
 
-• Bedrooms: Number of bedrooms in the house. 
-• Age: Age of the house in years. 
-• Proximity to Downtown (miles): Distance of the house from the downtown area. 
-• Price: Actual price of the house (in thousands of dollars).
+• Bedrooms: Number of bedrooms in the house. <br/>
+• Age: Age of the house in years. <br/>
+• Proximity to Downtown (miles): Distance of the house from the downtown area. <br/>
+• Price: Actual price of the house (in thousands of dollars). <br/>
 
 
