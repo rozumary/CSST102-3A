@@ -4,7 +4,10 @@ _Prepared by: Montesa, Rosemarie D._ | _BSCS 3A_
 
 
 
-https://github.com/user-attachments/assets/a9e09e6f-a47e-4d59-915d-558d32b28dff
+
+
+https://github.com/user-attachments/assets/72d89ddf-d39b-4e41-a449-a6683f349b18
+
 
 
 
@@ -23,24 +26,23 @@ https://github.com/user-attachments/assets/a9e09e6f-a47e-4d59-915d-558d32b28dff
 
 **Machine Learning** - is a sub-set of artificial intelligence (Ai) which provides machines the ability to learn automatically and improve from experience without explicitly being programmed.
 
-![image (3)](https://github.com/user-attachments/assets/32be76d0-792d-4d15-9110-9d933d24358f)
-
+![image (3)](https://github.com/user-attachments/assets/91f67246-454a-4c37-aa18-d9ba99539e54)
 
 **Types of Machine Learning**
 
 **1. Supervised Learning** - is an approach to creating artificial intelligence (AI) where a computer algorithms trained on input data that has been labeled for a particular output. The model is trained until it can detect the underlying patterns and relationships between the input data and the output labels, enabling it to yield accurate labeling results when presented with never-before-seen data.
 
-![image (2)](https://github.com/user-attachments/assets/90040e26-add3-47a9-831e-ce88be977be5)
-
+![image (2)](https://github.com/user-attachments/assets/3789ed92-86c1-474f-85ff-ef6cff3ab54f)
 
 **2. Unsupervised Learning** - is a type of machine learning where the algorithm is trained on unlabeled data without any specific target or output variable. Instead, it identifies patterns, structures, or relationships within the data on its own. It's used for tasks like clustering, dimensionality reduction, and anomaly detection.
    
-![image (1)](https://github.com/user-attachments/assets/9ee874fb-3047-4b7a-9393-30f2856697fe)
+![image (3)](https://github.com/user-attachments/assets/52afb2e1-3aa9-4236-b091-950de31526ee)
 
 
 **3. Reinforcement Learning** - is a machine learning paradigm where an agent learns to make decisions by interacting with an environment. The agent receives feedback in the form of rewards or penalties, allowing it to learn optimal behavior through trial and error. This approach is often used in applications like game playing, robotics, and autonomous systems.
 
-![image (4)](https://github.com/user-attachments/assets/84d587e6-cc35-4106-842c-1669a8afb5ad)
+![image (4)](https://github.com/user-attachments/assets/9b16e762-655a-40e5-93f1-dfb9aafa6b72)
+
 
 **The Three Different Applications of ML**
 
