@@ -38,6 +38,7 @@ Dataset Overview: The dataset consists of the following columns:
 • Price: Actual price of the house (in thousands of dollars). <br/>
 
 **Laboratory Exercise 1: Linear Regression Implementation**
+[3A-MONTESA-EXER1](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-EXER1)
 
 Objective:
 To apply the concepts of linear regression learned in lectures by implementing a simple linear regression
@@ -48,5 +49,7 @@ You are provided with a dataset containing information about house prices in a p
 dataset includes features such as the size of the house (in square feet), the number of bedrooms, and
 the age of the house. Your task is to predict the price of a house based on these features using a linear
 regression model.
+
+
 
 
