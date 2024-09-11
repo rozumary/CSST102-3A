@@ -16,6 +16,7 @@ enables AI systems to reason, learn, and make decisions.
 <br/>
 <br/>
 Click to see: <br/>
+[3A-MONTESA-MP2](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-MP2)
 
 
 Objective: To apply multiple regression techniques learned in the course to predict house prices based on 
