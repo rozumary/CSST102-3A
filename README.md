@@ -8,7 +8,7 @@ These are all the compilations of my laboratory activities in basic machine lear
 <br/>
 <br/>
 Click to see: <br/>
-[3A-MONTESA-EXER1](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-EXER1)
+[3A-MONTESA-EXER3](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-EXER3)
 
 Objective:
 To apply the concepts of linear regression learned in lectures by implementing a simple linear regression
@@ -71,8 +71,26 @@ Dataset Overview: The dataset consists of the following columns:
 • Price: Actual price of the house (in thousands of dollars). <br/>
 <br/>
 
+**Machine Problem No. 3: K-Nearest Neighbors (KNN) Classifier on Breast Cancer Diagnosis Dataset**
+<br/>
+<br/>
+Click to see: <br/>
+[3A-MONTESA-MP3](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-MP3)
+
+Objective:
+
+The goal of this task is to assess your ability to apply the K-Nearest Neighbors (KNN) algorithm to predict breast cancer diagnosis based on tumor characteristics. You will preprocess the dataset, implement the KNN algorithm, and evaluate its performance. You are also required to compare the KNN model with a Logistic Regression model.
 
 
+**Machine Problem No. 4: K-Means Clustering on a Customer Segmentation Dataset**
+<br/>
+<br/>
+Click to see: <br/>
+[3A-MONTESA-MP4](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-MP4)
+
+Objective:
+
+The goal of this task is to assess your ability to apply the K-Means clustering algorithm to perform customer segmentation. You will preprocess the dataset, apply the K-Means algorithm, and evaluate the results. Additionally, you are required to visualize the clusters formed and discuss the characteristics of each group.
 
 
 
