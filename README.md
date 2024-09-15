@@ -2,6 +2,39 @@
 
 These are all the compilations of my laboratory activities in basic machine learning.
 
+# Exercises
+
+**Laboratory Exercise 1: Linear Regression Implementation**
+<br/>
+<br/>
+Click to see: <br/>
+[3A-MONTESA-EXER1](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-EXER1)
+
+Objective:
+To apply the concepts of linear regression learned in lectures by implementing a simple linear regression
+model from scratch in Python.
+
+Task Overview:
+You are provided with a dataset containing information about house prices in a particular city. The
+dataset includes features such as the size of the house (in square feet), the number of bedrooms, and
+the age of the house. Your task is to predict the price of a house based on these features using a linear
+regression model.
+
+**Exercises for K-Nearest Neighbors (KNN) and Logistic Regression on Breast Cancer Diagnosis Dataset**
+<br/>
+<br/>
+Click to see: <br/>
+[3A-MONTESA-EXER2](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-EXER2)
+
+**Exercises for K-Nearest Neighbors (KNN) and Logistic Regression on Customer Segmentation Dataset**
+<br/>
+<br/>
+Click to see: <br/>
+[3A-MONTESA-EXER2](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-EXER2)
+
+
+# Machine Problems
+
 **Machine Problem No. 1: Exploring the Role of Knowledge Representation in AI.**
 <br/>
 <br/>
@@ -38,21 +71,7 @@ Dataset Overview: The dataset consists of the following columns:
 • Price: Actual price of the house (in thousands of dollars). <br/>
 <br/>
 
-**Laboratory Exercise 1: Linear Regression Implementation**
-<br/>
-<br/>
-Click to see: <br/>
-[3A-MONTESA-EXER1](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-EXER1)
 
-Objective:
-To apply the concepts of linear regression learned in lectures by implementing a simple linear regression
-model from scratch in Python.
-
-Task Overview:
-You are provided with a dataset containing information about house prices in a particular city. The
-dataset includes features such as the size of the house (in square feet), the number of bedrooms, and
-the age of the house. Your task is to predict the price of a house based on these features using a linear
-regression model.
 
 
 
