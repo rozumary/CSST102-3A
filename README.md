@@ -24,13 +24,13 @@ regression model.
 <br/>
 <br/>
 Click to see: <br/>
-[3A-MONTESA-EXER2](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-EXER2.ipynb)
+[3A-MONTESA-EXER2.ipynb](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-EXER2.ipynb)
 
 **Exercises for K-Nearest Neighbors (KNN) and Logistic Regression on Customer Segmentation Dataset**
 <br/>
 <br/>
 Click to see: <br/>
-[3A-MONTESA-EXER2](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-EXER3.ipynb)
+[3A-MONTESA-EXER3.ipynb](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-EXER3.ipynb)
 
 
 # Machine Problems
