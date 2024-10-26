@@ -30,7 +30,7 @@ Click to see: <br/>
 <br/>
 <br/>
 Click to see: <br/>
-[3A-MONTESA-EXER3.ipynb](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-EXER3.ipynb)
+[3A-MONTESA-EXER3.ipynb](https://github.com/rozumary/CSST102-3A/blob/main/3A_MONTESA_EXER3.ipynb)
 
 
 # Machine Problems
