@@ -24,7 +24,7 @@ regression model.
 <br/>
 <br/>
 Click to see: <br/>
-[3A-MONTESA-EXER2.ipynb](https://github.com/rozumary/CSST102-3A/tree/main/3A-MONTESA-EXER2.ipynb)
+[3A-MONTESA-EXER2.ipynb](https://github.com/rozumary/CSST102-3A/blob/main/3A_MONTESA_EXER2.ipynb)
 
 **Exercises for K-Nearest Neighbors (KNN) and Logistic Regression on Customer Segmentation Dataset**
 <br/>
