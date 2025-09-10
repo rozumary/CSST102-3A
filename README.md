@@ -90,7 +90,9 @@ Click to see: <br/>
 
 Objective:
 
-The goal of this task is to assess your ability to apply the K-Means clustering algorithm to perform customer segmentation. You will preprocess the dataset, apply the K-Means algorithm, and evaluate the results. Additionally, you are required to visualize the clusters formed and discuss the characteristics of each group.
+The goal of this task is to assess your ability to apply the K-Means clustering algorithm to perform customer segmentation. You will preprocess the dataset, apply the K-Means algorithm, and evaluate the results. Additionally, you are required to visualize the clusters formed and discuss the characteristics of each group.<br/>
 
 
 
+
+© 2024 BSCS 3A-IS | All rights reserved.
